@@ -11,6 +11,7 @@
    
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/e60a0a5b-92ce-4551-b8ae-7ae73a6d517d)
 8. Masuk ke direktori "/var/www/html"
+
 9. Mengedit
 
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/5ccc8c95-662e-4a0d-a53a-2d91ee4b682f)
