@@ -15,6 +15,8 @@
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/5ccc8c95-662e-4a0d-a53a-2d91ee4b682f)
 
 10. Tampilan di website
+
+
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/ea2ddd63-c83e-4cc2-ae53-103890a52a68)
 
  
