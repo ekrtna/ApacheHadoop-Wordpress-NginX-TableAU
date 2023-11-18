@@ -44,9 +44,11 @@
 
 
 23. Login dengan username dan password yang telah kita buat tadi. Lalu, akan muncul homepage wordpress-admin setelah setelah melakukan login.
+
+
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/7f26e8fd-e830-4b3e-baab-b9e38d6aebf5)
 
-Berikut hasil postingan yang sudah saya buat.
+24. Berikut hasil postingan yang sudah saya buat.
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/d9cfffcb-e918-4a7a-8de3-396efd0d4e48)
 ![image](https://github.com/ekrtna/ApacheHadoop-Wordpress-NginX-TableAU/assets/150004277/4f7c439f-c9f3-4b36-b566-36734a586d51)
 
